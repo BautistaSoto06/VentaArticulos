@@ -1,0 +1,6 @@
+node_modules/
+
+# Skill "impeccable" instalada con `npx skills add pbakaus/impeccable`
+.agents/skills/impeccable/
+.claude/skills/impeccable
+skills-lock.json
